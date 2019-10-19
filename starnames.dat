@@ -10,23 +10,31 @@
 301:2 Cet
 330:9 Cas
 355:3 Cet
+428:Gliese 2
+436:Gliese 3
 439:Gliese 1:Cordoba 32416
 443:33 Psc
+473:Gliese 4
 476:86 Peg
 531:10 Cas
+544:Gliese 5
 664:5 Cet
 677:Alpheratz:Sirrah:ALF And:21 And:DEL Peg
+699:Gliese 6
 729:87 Peg
-746:Caph:Cheph:BET Cas:11 Cas
+730:Gliese 9
+738:Gliese 7
+746:Caph:Cheph:BET Cas:11 Cas:Gliese 8
 761:KAP1 Scl
 765:EPS Phe
 813:34 Psc
 814:GAM3 Oct
 841:22 And
-910:6 Cet
+910:6 Cet:Gliese 10
 930:KAP2 Scl
 950:TET Scl
 1067:Algenib:GAM Peg:88 Peg
+1068:Gliese 11
 1086:23 And
 1168:CHI Peg:89 Peg
 1170:7 Cet
@@ -34,24 +42,29 @@
 1242:GJ 1005:Luyten 722-22
 1292:GJ 3021
 1319:36 Psc
+1349:Gliese 13
 1366:TET And:24 And
+1368:Gliese 14
+1463:Gliese 16
 1473:SIG And:25 And
 1475:Gliese 15:Groombridge 34
 1501:26 And
 1562:Schemali:IOT Cet:8 Cet
-1599:ZET Tuc
+1599:ZET Tuc:Gliese 17
 1645:d Psc:41 Psc
 1647:PI Tuc
 1686:RHO And:27 And
 1708:IOT Scl
 1772:42 Psc
 1803:9 Cet
+1936:Gliese 18
 1960:12 Cas
 2006:44 Psc
 2021:BET Hyi:Gliese 19
-2072:KAP Phe
+2072:KAP Phe:Gliese 20
 2081:Ankaa:ALF Phe
 2100:10 Cet
+2120:Gliese 21
 2210:ETA Scl
 2219:47 Psc
 2224:48 Psc
@@ -64,21 +77,27 @@
 2487:BET2 Tuc
 2505:LAM Cas:14 Cas
 2548:51 Psc
+2552:Gliese 22
 2568:52 Psc
 2599:KAP Cas:15 Cas
 2629:TET Tuc
 2707:16 Cas
-2762:13 Cet
+2762:13 Cet:Gliese 23
 2787:14 Cet
 2802:LAM2 Phe
+2848:Gliese 24 B
+2888:Gliese 24 A
 2903:53 Psc
 2912:PI And:29 And
 2920:Fulu:ZET Cas:17 Cas
+2941:Gliese 25
 3031:EPS And:30 And
 3092:DEL And:31 And
-3093:54 Psc
+3093:54 Psc:Gliese 27
 3138:55 Psc
+3170:Gliese 29
 3179:Schedar:Shedir:ALF Cas:18 Cas
+3206:Gliese 28
 3231:32 And
 3245:MU Phe
 3277:XI Phe
@@ -87,12 +106,14 @@
 3356:LAM1 Scl
 3405:ETA Phe
 3414:PI Cas:20 Cas
-3419:Diphda:Deneb Kaitos:BET Cet:16 Cet
+3418:Gliese 30
+3419:Diphda:Deneb Kaitos:BET Cet:16 Cet:Gliese 31
 3455:PHI1 Cet:17 Cet
 3456:LAM2 Scl
 3504:OMI Cas:22 Cas
 3559:18 Cet
 3572:21 Cas
+3588:Gliese 32
 3632:57 Psc
 3675:58 Psc
 3685:59 Psc
@@ -106,30 +127,43 @@
 3786:DEL Psc:63 Psc
 3801:NU Cas:25 Cas
 3810:64 Psc
-3821:Achird:ETA Cas:24 Cas
+3821:Achird:ETA Cas:24 Cas:Gliese 34
 3829:Van Maanen's Star:Van Maanen 2:Gliese 35:Wolf 28
+3850:Gliese 36
 3881:NU And:35 And
 3885:65 Psc
-3909:PHI2 Cet:19 Cet
+3909:PHI2 Cet:19 Cet:Gliese 37
 3949:RHO Phe
+3998:Gliese 39
+4012:Gliese 38
+4022:Gliese 40
 4084:LAM1 Tuc
 4147:20 Cet
+4148:Gliese 42
+4151:Gliese 41
 4257:21 Cet
 4267:66 Psc
 4288:36 And
 4292:UPS1 Cas:26 Cas
 4293:LAM Tuc:LAM2 Tuc
+4328:Gliese 43
 4366:k Psc:67 Psc
 4371:PHI3 Cet:22 Cet
 4422:Castula:UPS2 Cas:28 Cas
 4427:Tsih:GAM Cas:27 Cas
 4436:MU And:37 And
 4463:ETA And:38 And
+4473:Gliese 45
+4478:Gliese 44
 4510:h Psc:68 Psc
+4569:Gliese 46
 4577:ALF Scl
 4587:PHI4 Cet:23 Cet
 4770:XI Scl
+4824:Gliese 50
 4852:SIG Scl
+4856:Gliese 48
+4872:Gliese 49
 4889:SIG Psc:69 Psc
 4903:39 And
 4906:EPS Psc:71 Psc
@@ -145,6 +179,7 @@
 5164:28 Cet
 5165:BET Phe
 5204:75 Psc
+5247:Gliese 52
 5268:IOT Tuc
 5296:30 Cet
 5300:UPS Phe
@@ -160,6 +195,7 @@
 5454:PSI3 Psc:81 Psc
 5485:32 Cet
 5493:44 And
+5496:Gliese 54
 5510:33 Cet
 5518:31 Cas
 5542:TET Cas:33 Cas
@@ -177,21 +213,24 @@
 5799:37 Cet
 5824:88 Psc
 5833:38 Cet
-5862:NU Phe
+5862:NU Phe:Gliese 55
 5896:KAP Tuc
 5951:39 Cet
+6037:Gliese 56
 6061:f Psc:89 Psc
 6193:UPS Psc:90 Psc
 6226:42 Cet
 6242:PHI Cas:34 Cas
 6312:35 Cas
 6315:l Psc:91 Psc
+6351:Gliese 57
 6379:Gliese 56.5:GJ 9054
 6411:Adhil:XI And:46 And
 6429:43 Cet
 6514:47 And
 6537:TET Cet:45 Cet
 6539:44 Cet
+6607:Gliese 58
 6670:46 Cet
 6686:Ruchbah:DEL Cas:37 Cas
 6692:PSI Cas:36 Cas
@@ -208,42 +247,55 @@
 7078:38 Cas
 7083:DEL Phe
 7097:Alpherg:ETA Psc:99 Psc
+7235:Gliese 59
 7294:CHI Cas:39 Cas
 7345:49 Cet
+7372:Gliese 60
 7436:101 Psc
 7450:50 Cet
 7463:TAU Scl
-7513:UPS And:50 And
+7513:UPS And:50 And:Gliese 61
 7535:PI Psc:102 Psc
+7539:Gliese 62
 7562:WASP-18
 7588:Achernar:ALF Eri
 7607:Nembus:51 And:UPS Per
+7635:Gliese 63
 7650:40 Cas
 7719:CHI And:52 And
 7740:105 Psc
-7751:p Eri
+7751:p Eri:Gliese 66
 7818:TAU And:53 And
 7879:TAU1 Hyi
 7884:NU Psc:106 Psc
+7918:Gliese 67
 7955:PI Scl
 7965:43 Cas
 7978:q1 Eri
 7981:107 Psc:Gliese 68
 8016:42 Cas
 8046:44 Cas
+8051:Gliese 70
 8068:PHI Per
+8070:Gliese 69
 8102:TAU Cet:52 Cet:Gliese 71
-8159:109 Psc
+8159:109 Psc:Gliese 72
 8198:Torcular:Torcularis Septentrionalis:OMI Psc:110 Psc
 8209:EPS Scl
 8241:q2 Eri
+8275:Gliese 74
+8346:Gliese 76
+8362:Gliese 75
 8366:TAU2 Hyi
 8387:4 Ari
+8398:Gliese 77
 8497:CHI Cet:53 Cet
 8544:1 Ari
 8645:Baten Kaitos:ZET Cet:55 Cet
+8691:Gliese 78
 8704:1 Per
 8714:2 Per
+8768:Gliese 79
 8796:Mothallah:Elmuthalleth:Caput Trianguli:ALF Tri:2 Tri
 8814:55 And
 8832:Mesarthim:Mesarthun:GAM1 Ari:GAM2 Ari:5 Ari
@@ -251,18 +303,19 @@
 8837:PSI Phe
 8882:PHI Phe
 8886:Segin:Navi:EPS Cas:45 Cas
-8903:Sheratan:Elscheratain:BET Ari:6 Ari
+8903:Sheratan:Elscheratain:BET Ari:6 Ari:Gliese 80
 8928:ETA2 Hyi
 8991:SIG Hyi
 8993:7 Ari
-9007:CHI Eri
+9007:CHI Eri:Gliese 81
 9009:OME Cas:46 Cas
 9021:56 And
 9061:56 Cet
 9110:IOT Ari:8 Ari
 9153:LAM Ari:9 Ari
 9222:3 Per
-9236:ALF Hyi
+9236:ALF Hyi:Gliese 83
+9291:Gliese 82
 9326:57 Cet
 9347:UPS Cet:59 Cet
 9353:112 Psc
@@ -280,6 +333,7 @@
 9631:61 Cet
 9640:Almach:Almaak:Alamak:GAM1 And:GAM2 And:57 And
 9677:NU For
+9724:Gliese 84
 9727:47 Cas
 9763:49 Cas
 9836:KAP Ari:12 Ari
@@ -297,36 +351,43 @@
 10220:5 Tri
 10227:5 Per
 10234:63 Cet
+10279:Gliese 87
 10280:6 Tri
 10305:66 Cet
 10306:ETA Ari:17 Ari
-10320:MU For
+10312:Gliese 88
+10320:MU For:Gliese 89
 10324:XI1 Cet:65 Cet
 10328:19 Ari
 10340:b And:60 And
 10366:6 Per
+10395:Gliese 91
 10418:PI1 Hyi
 10438:55 Cas
 10513:PI2 Hyi
+10531:Gliese 90
 10535:21 Ari
 10540:20 Ari
 10559:7 Tri
 10602:PHI Eri
 10642:67 Cet
-10644:DEL Tri:8 Tri
+10644:DEL Tri:8 Tri:Gliese 92
 10670:GAM Tri:9 Tri
+10688:Gliese 93
 10718:8 Per
 10729:CHI Per:7 Per
 10732:TET Ari:22 Ari
 10793:10 Tri
+10798:Gliese 95
 10819:c And:62 And
 10826:Mira:OMI Cet:68 Cet
 10944:63 And
 11001:DEL Hyi
 11021:69 Cet
 11046:70 Cet
+11048:Gliese 96
 11060:i Per:9 Per
-11072:KAP For
+11072:KAP For:Gliese 97
 11095:KAP Hyi
 11220:64 And
 11249:XI Ari:24 Ari
@@ -338,11 +399,14 @@
 11397:WASP-33
 11407:KAP Eri
 11432:11 Tri
+11452:Gliese 98
 11465:66 And
 11477:PHI For
 11484:XI2 Cet:73 Cet
 11486:12 Tri
+11542:Gliese 99
 11548:13 Tri
+11565:Gliese 100
 11569:IOT Cas
 11678:26 Ari
 11698:27 Ari
