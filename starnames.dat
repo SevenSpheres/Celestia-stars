@@ -73,7 +73,7 @@
 2802:LAM2 Phe
 2903:53 Psc
 2912:PI And:29 And
-2920:ZET Cas:17 Cas
+2920:Fulu:ZET Cas:17 Cas
 3031:EPS And:30 And
 3092:DEL And:31 And
 3093:54 Psc
@@ -121,7 +121,7 @@
 4293:LAM Tuc:LAM2 Tuc
 4366:k Psc:67 Psc
 4371:PHI3 Cet:22 Cet
-4422:UPS2 Cas:28 Cas
+4422:Castula:UPS2 Cas:28 Cas
 4427:Tsih:GAM Cas:27 Cas
 4436:MU And:37 And
 4463:ETA And:38 And
@@ -207,7 +207,7 @@
 7007:MU Psc:98 Psc
 7078:38 Cas
 7083:DEL Phe
-7097:ETA Psc:99 Psc
+7097:Alpherg:ETA Psc:99 Psc
 7294:CHI Cas:39 Cas
 7345:49 Cet
 7436:101 Psc
@@ -244,7 +244,7 @@
 8645:Baten Kaitos:ZET Cet:55 Cet
 8704:1 Per
 8714:2 Per
-8796:Elmuthalleth:Mothalla:Caput Trianguli:ALF Tri:2 Tri
+8796:Mothallah:Elmuthalleth:Caput Trianguli:ALF Tri:2 Tri
 8814:55 And
 8832:Mesarthim:Mesarthun:GAM1 Ari:GAM2 Ari:5 Ari
 8833:XI Psc:111 Psc
@@ -269,7 +269,7 @@
 9440:PI For
 9459:CHI Phe
 9480:48 Cas
-9487:Al Rescha:Rischa:el Rischa:ALF Psc:113 Psc
+9487:Alrescha:Al Rescha:Rischa:el Rischa:ALF Psc:113 Psc
 9505:g Per:4 Per
 9564:52 Cas
 9570:EPS Tri:3 Tri
@@ -278,7 +278,7 @@
 9598:50 Cas
 9621:10 Ari
 9631:61 Cet
-9640:Almaak:Almach:Alamak:GAM1 And:GAM2 And:57 And
+9640:Almach:Almaak:Alamak:GAM1 And:GAM2 And:57 And
 9677:NU For
 9727:47 Cas
 9763:49 Cas
@@ -381,7 +381,7 @@
 12640:MU Ari:34 Ari
 12653:IOT Hor:HR 810
 12692:11 Per
-12706:Kaffaljidhmah:GAM Cet:86 Cet
+12706:Kaffaljidhma:GAM Cet:86 Cet
 12719:35 Ari
 12768:14 Per
 12770:PI Cet:89 Cet
@@ -395,19 +395,19 @@
 12871:GAM Hor
 12876:ZET Hyi
 13040:ETA1 For
-13061:39 Ari
+13061:Lilii Borea:39 Ari
 13108:40 Ari
 13141:NU Hor
 13147:BET For
 13165:PI Ari:42 Ari
 13197:GAM1 For
 13202:GAM2 For
-13209:41 Ari
+13209:Bharani:41 Ari
 13225:ETA2 For
 13244:NU Hyi
 13254:16 Per
 13265:ETA3 For
-13268:ETA Per:15 Per
+13268:Miram:ETA Per:15 Per
 13288:Angetenar:TAU2 Eri:2 Eri
 13327:SIG Ari:43 Ari
 13328:17 Per
@@ -448,11 +448,11 @@
 14576:Algol:BET Per:26 Per
 14586:54 Ari
 14632:IOT Per
-14668:KAP Per:27 Per
+14668:Misam:KAP Per:27 Per
 14677:55 Ari
 14817:OME Per:28 Per
 14838:Botein:DEL Ari:57 Ari
-14879:ALF For
+14879:Dalim:ALF For
 14893:56 Ari
 14954:94 Cet
 15110:ZET Ari:58 Ari
@@ -477,7 +477,7 @@
 15696:62 Ari
 15737:TAU2 Ari:63 Ari
 15861:64 Ari
-15863:Mirphak:Mirfak:Marfak:ALF Per:33 Per
+15863:Mirfak:Mirphak:Marfak:ALF Per:33 Per
 15870:65 Ari
 15900:OMI Tau:1 Tau
 15987:CHI1 For
@@ -610,7 +610,7 @@
 20507:XI Eri:42 Eri
 20522:r Tau:66 Tau
 20533:62 Tau
-20535:UPS3 Eri:d Eri:43 Eri
+20535:Beemim:UPS3 Eri:d Eri:43 Eri
 20542:DEL2 Tau:64 Tau
 20579:55 Per
 20591:56 Per
@@ -626,7 +626,7 @@
 20877:75 Tau
 20885:TET1 Tau:77 Tau
 20889:Ain:EPS Tau:74 Tau
-20894:TET2 Tau:78 Tau
+20894:Chamukuy:TET2 Tau:78 Tau
 20901:b Tau:79 Tau
 20995:80 Tau
 21036:83 Tau
@@ -695,7 +695,7 @@
 22871:ETA Men
 22957:OMI2 Ori:9 Ori
 22958:b Eri:62 Eri
-23015:Kabdhilinan:IOT Aur:3 Aur
+23015:Hassaleh:Kabdhilinan:IOT Aur:3 Aur
 23040:7 Cam
 23068:99 Tau
 23088:k Tau:98 Tau
@@ -709,7 +709,7 @@
 23261:5 Aur
 23268:6 Aur
 23364:PSI Eri:65 Eri
-23416:Maaz:EPS Aur:7 Aur
+23416:Almaaz:Maaz:EPS Aur:7 Aur
 23453:Sadatoni:ZET Aur:8 Aur
 23467:BET Men
 23474:1 Lep
@@ -724,7 +724,7 @@
 23693:ZET Dor
 23734:11 Cam
 23743:12 Cam
-23767:ETA Aur:10 Aur
+23767:Haedus:ETA Aur:10 Aur
 23783:9 Aur
 23794:66 Eri
 23835:m Tau:104 Tau
@@ -781,7 +781,7 @@
 25303:TET Pic
 25336:Bellatrix:GAM Ori:24 Ori
 25410:113 Tau
-25428:Alnath:Elnath:BET Tau:112 Tau
+25428:Elnath:Alnath:BET Tau:112 Tau
 25429:LAM Dor
 25473:PSI Ori:PSI2 Ori:30 Ori
 25499:115 Tau
@@ -811,13 +811,13 @@
 26093:35 Ori
 26126:n2 Ori:38 Ori
 26176:PHI1 Ori:37 Ori
-26207:Heka:Meissa:LAM Ori:39 Ori
+26207:Meissa:Heka:LAM Ori:39 Ori
 26220:TET1 Ori A:41 Ori A:V1016 Ori
 26221:TET1 Ori C:41 Ori C
 26224:TET1 Ori D:41 Ori D
 26235:TET2 Ori:43 Ori
 26237:c Ori:42 Ori
-26241:Na'ir al Saif:IOT Ori:44 Ori
+26241:Hatysa:Na'ir al Saif:IOT Ori:44 Ori
 26248:121 Tau
 26264:IOT Men
 26268:45 Ori
@@ -891,7 +891,7 @@
 28328:ETA Col
 28358:Prijipati:DEL Aur:33 Aur
 28360:Menkalinan:BET Aur:34 Aur
-28380:TET Aur:37 Aur
+28380:Mahasim:TET Aur:37 Aur
 28404:PI Aur:35 Aur
 28499:36 Aur
 28574:3 Mon
@@ -909,7 +909,7 @@
 28910:TET Lep:18 Lep
 28946:40 Aur
 28957:PI1 Col
-29034:TET Col
+29034:Elkurud:TET Col
 29038:NU Ori:67 Ori
 29048:19 Lep
 29064:PI2 Col
@@ -1002,7 +1002,7 @@
 32292:10 CMa
 32311:28 Gem
 32349:Sirius:Alhabor:ALF CMa:9 CMa:Gliese 244
-32362:XI Gem:31 Gem
+32362:Alzirr:XI Gem:31 Gem
 32404:32 Gem
 32438:12 Lyn
 32463:16 Mon
@@ -1044,7 +1044,7 @@
 33449:15 Lyn
 33485:PSI10 Aur:16 Lyn
 33558:t Pup
-33579:Adara:Adhara:EPS CMa:21 CMa
+33579:Adhara:Adara:EPS CMa:21 CMa
 33595:39 Gem
 33614:62 Aur
 33650:40 Gem
@@ -1136,7 +1136,7 @@
 37096:f Pup
 37173:m Pup
 37204:70 Gem
-37265:OMI Gem:71 Gem
+37265:Jishui:OMI Gem:71 Gem
 37279:Procyon:Elgomaisa:ALF CMi:10 CMi:Gliese 280
 37297:n1 Pup
 37300:f Gem:74 Gem
@@ -1168,7 +1168,7 @@
 38089:Q Pup
 38106:82 Gem
 38164:P Pup
-38170:Asmidiske:XI Pup:7 Pup
+38170:Azmidi:Asmidiske:XI Pup:7 Pup
 38211:6 Pup
 38372:8 Pup
 38373:ZET CMi:13 CMi
@@ -1235,7 +1235,7 @@
 41037:Avior:EPS Car
 41039:B Vel
 41067:22 Pup
-41075:31 Lyn
+41075:Alsciaukat:31 Lyn
 41117:d1 Cnc:20 Cnc
 41163:21 Cnc
 41211:1 Hya
@@ -1269,7 +1269,7 @@
 42313:DEL Hya:4 Hya
 42334:ETA Pyx
 42353:37 Cnc
-42402:Minhar al Shuja:SIG Hya:5 Hya
+42402:Minchir:Minhar al Shuja:SIG Hya:5 Hya
 42425:TET Vol
 42438:PI1 UMa:3 UMa
 42483:ZET Pyx
@@ -1280,7 +1280,7 @@
 42523:40 Cnc
 42527:PI2 UMa:4 UMa
 42536:OMI Vel
-42556:EPS Cnc:41 Cnc
+42556:Meleph:EPS Cnc:41 Cnc
 42568:d Car
 42570:b Vel
 42604:34 Lyn
@@ -1295,7 +1295,7 @@
 42835:F Hya
 42884:d Vel
 42911:Asellus Australis:DEL Cnc:47 Cnc
-42913:DEL Vel
+42913:Alsephina:DEL Vel
 42917:b Cnc:49 Cnc
 42931:10 Hya
 42954:46 Cnc
@@ -1304,7 +1304,7 @@
 43100:IOT Cnc B:48 Cnc B
 43103:IOT Cnc A:48 Cnc A
 43105:f Car
-43109:EPS Hya:11 Hya
+43109:Ashlesha:EPS Hya:11 Hya
 43121:50 Cnc
 43234:RHO Hya:13 Hya
 43305:14 Hya
@@ -1344,7 +1344,7 @@
 44382:ALF Vol
 44390:RHO UMa:8 UMa
 44405:NU Cnc:69 Cnc
-44471:Talitha Australis:KAP UMa:12 UMa
+44471:Alkaphrah:Talitha Australis:KAP UMa:12 UMa
 44511:c Vel
 44512:70 Cnc
 44659:OME Hya:18 Hya
@@ -1388,7 +1388,7 @@
 45856:k Car
 45860:ALF Lyn:40 Lyn
 45902:TET Pyx
-45941:KAP Vel
+45941:Markeb:KAP Vel
 46026:LAM Pyx
 46107:IOT Cha
 46146:KAP Leo:1 Leo
@@ -1399,6 +1399,7 @@
 46390:Alphard:Cor Hydrae:ALF Hya:30 Hya
 46454:OME Leo:2 Leo
 46457:3 Leo
+46471:Intercrus:41 Lyn
 46509:Ukdah:TAU1 Hya:31 Hya
 46515:EPS Ant
 46651:PSI Vel
@@ -1465,6 +1466,7 @@
 48414:7 Sex
 48437:GAM Sex:8 Sex
 48455:Rasalas:Ras Elased Borealis:MU Leo:24 Leo
+48615:Felis
 48682:31 UMa
 48774:Tseen Ke:PHI Vel
 48833:19 LMi
@@ -1590,7 +1592,7 @@
 53492:50 LMi
 53502:IOT Ant
 53702:ETA Oct
-53721:47 UMa
+53721:47 UMa:Chalawan
 53740:Alkes:ALF Crt:7 Crt
 53767:Gliese 408:Ross 104
 53773:i Vel
@@ -1724,7 +1726,7 @@
 59501:5 Com
 59608:12 Vir
 59654:D Cen
-59747:DEL Cru
+59747:Imai:DEL Cru
 59774:Megrez:DEL UMa:69 UMa
 59803:Gienah:GAM Crv:4 Crv
 59819:6 Com
@@ -1743,7 +1745,7 @@
 60189:ZET Crv:5 Crv
 60202:11 Com
 60212:70 UMa
-60260:EPS Cru
+60260:Ginan:EPS Cru
 60320:ZET2 Mus
 60329:ZET1 Mus
 60351:12 Com
@@ -1806,7 +1808,7 @@
 62012:w Cen
 62157:HW Vir
 62207:10 CVn
-62223:Y CVn
+62223:La Superba:Y CVn
 62267:d2 Vir:32 Vir
 62268:IOT Cru
 62322:BET Mus
@@ -1865,7 +1867,7 @@
 64217:15 CVn
 64224:50 Vir
 64238:TET Vir:51 Vir
-64241:ALF Com:42 Com
+64241:Diadem:ALF Com:42 Com
 64246:17 CVn
 64394:BET Com:43 Com
 64407:53 Vir
@@ -1932,7 +1934,7 @@
 67244:z Cen
 67275:TAU Boo:4 Boo
 67288:87 Vir
-67301:Benetnasch:Alkaid:ETA UMa:85 UMa
+67301:Alkaid:Benetnasch:ETA UMa:85 UMa
 67457:2 Cen
 67459:UPS Boo:5 Boo
 67464:NU Cen
@@ -1958,7 +1960,7 @@
 68478:11 Boo
 68520:TAU Vir:93 Vir
 68523:UPS2 Cen
-68702:Agena:Hadar:BET Cen
+68702:Hadar:Agena:BET Cen
 68756:Thuban:ALF Dra:11 Dra
 68815:TET Aps
 68862:CHI Cen
@@ -1971,7 +1973,7 @@
 69127:96 Vir
 69226:d Boo:12 Boo
 69415:50 Hya
-69427:KAP Vir:98 Vir
+69427:Kang:KAP Vir:98 Vir
 69481:KAP1 Boo:17 Boo B
 69483:KAP2 Boo:17 Boo A
 69536:14 Boo
@@ -1983,7 +1985,7 @@
 69879:A Boo
 69896:ETA Aps
 69929:CS Vir
-69974:LAM Vir:100 Vir
+69974:Khambalia:LAM Vir:100 Vir
 69989:18 Boo
 69996:IOT Lup
 70012:UPS Vir:102 Vir
@@ -2002,7 +2004,7 @@
 70680:104 Vir
 70692:5 UMi
 70753:l Hya:52 Hya
-70755:PHI Vir:105 Vir
+70755:Elgafar:PHI Vir:105 Vir
 70791:g Boo:24 Boo
 70794:106 Vir
 70890:Proxima:Proxima Cen:ALF Cen C:V645 Cen:Gliese 551
@@ -2039,12 +2041,12 @@
 72357:56 Hya
 72370:ALF Aps
 72378:57 Hya
-72487:h Boo:38 Boo
+72487:Merga:h Boo:38 Boo
 72489:MU Lib:7 Lib
 72524:39 Boo
 72571:E Hya:58 Hya
 72603:ALF1 Lib:8 Lib
-72607:Kocab:Kochab:BET UMi:7 UMi
+72607:Kochab:Kocab:BET UMi:7 UMi
 72622:Zubenelgenubi:ALF2 Lib:9 Lib
 72631:11 Lib
 72659:XI Boo:37 Boo:Gliese 566
@@ -2071,7 +2073,7 @@
 73568:OME Boo:41 Boo
 73620:110 Vir
 73695:i Boo:44 Boo
-73714:SIG Lib:20 Lib:GAM Sco
+73714:Brachium:SIG Lib:20 Lib:GAM Sco
 73745:PSI Boo:43 Boo
 73771:PI2 Oct
 73776:ETA Cir
@@ -2144,7 +2146,7 @@
 76133:11 Ser
 76219:37 Lib
 76259:36 Lib
-76267:Alphekkai:Alphecca:Gemma:ALF CrB:5 CrB
+76267:Alphecca:Alphekkai:Gemma:ALF CrB:5 CrB
 76276:DEL Ser:13 Ser
 76297:GAM Lup
 76307:MU CrB:6 CrB
@@ -2185,7 +2187,7 @@
 77233:Chow:BET Ser:28 Ser
 77257:LAM Ser:27 Ser
 77336:UPS Ser:31 Ser
-77450:KAP Ser:35 Ser
+77450:Gudja:KAP Ser:35 Ser
 77501:V CrB
 77512:DEL CrB:10 CrB
 77516:MU Ser:32 Ser
@@ -2211,13 +2213,13 @@
 77986:4 Her
 78012:LAM CrB:12 CrB
 78072:GAM Ser:41 Ser
-78104:RHO Sco:5 Sco
+78104:Iklil:RHO Sco:5 Sco
 78105:XI1 Lup
 78106:XI2 Lup
 78132:PHI Ser
 78159:EPS CrB:13 CrB
 78207:48 Lib
-78265:PI Sco:6 Sco
+78265:Fang:PI Sco:6 Sco
 78384:ETA Lup
 78400:49 Lib
 78401:Dschubba:DEL Sco:7 Sco
@@ -2232,7 +2234,7 @@
 78662:IOT1 Nor
 78685:43 Ser
 78727:XI Sco
-78820:Graffias:Akrab:BET1 Sco:8 Sco A
+78820:Acrab:Graffias:Akrab:BET1 Sco:8 Sco A
 78821:BET2 Sco:8 Sco B
 78914:DEL Nor
 78918:TET Lup
@@ -2240,7 +2242,7 @@
 78990:OME2 Sco:10 Sco
 79005:11 Sco
 79007:45 Ser
-79043:Maasim:KAP Her:7 Her A
+79043:Marsic:Maasim:KAP Her:7 Her A
 79045:7 Her B
 79072:47 Ser
 79101:PHI Her:11 Her
@@ -2279,13 +2281,13 @@
 80057:DEL2 Aps
 80076:HAT-P-2
 80079:OMI Sco:19 Sco
-80112:Al Niyat:SIG Sco:20 Sco
+80112:Alniyat:Al Niyat:SIG Sco:20 Sco
 80170:GAM Her:20 Her
 80179:SIG Ser:50 Ser
 80181:XI CrB:19 CrB
 80197:NU1 CrB:20 CrB
 80214:NU2 CrB:21 CrB
-80331:ETA Dra:14 Dra
+80331:Athebyne:ETA Dra:14 Dra
 80343:PSI Oph:4 Oph
 80351:o Her:21 Her
 80459:Gliese 625:AC+54 1646-56
@@ -2339,7 +2341,7 @@
 82321:52 Her
 82363:ETA Ara
 82369:20 Oph
-82396:EPS Sco:26 Sco
+82396:Larawag:EPS Sco:26 Sco
 82402:k Her:47 Her
 82422:50 Her
 82480:21 Oph
@@ -2373,10 +2375,10 @@
 83431:EPS2 Ara
 83462:61 Her
 83574:k Sco
-83608:Arrakis:MU Dra:21 Dra
+83608:Alrakis:Arrakis:MU Dra:21 Dra
 83613:60 Her
 83838:c Her
-83895:Kaou Pih:ZET Dra:22 Dra
+83895:Aldhibah:Kaou Pih:ZET Dra:22 Dra
 83945:Giclas 203-47
 84012:Sabik:ETA Oph:35 Oph
 84054:63 Her
@@ -2386,7 +2388,7 @@
 84345:Rasalgethi:Ras Algethi:ALF1 Her:ALF2 Her:64 Her
 84379:Sarin:DEL Her:65 Her
 84380:PI Her:67 Her
-84405:36 Oph:Gliese 663
+84405:Guniibuu:36 Oph:Gliese 663
 84478:36 Oph C:V2215 Oph:Gliese 664
 84500:38 Oph:U Oph
 84514:41 Oph
@@ -2457,6 +2459,7 @@
 86731:84 Her
 86736:58 Oph
 86742:Cebalrai:Cheleb:BET Oph:60 Oph
+86782:Alruba
 86796:MU Ara
 86831:61 Oph
 86929:ETA Pav
@@ -2470,7 +2473,7 @@
 87194:87 Her
 87212:30 Dra
 87234:35 Dra
-87261:G Sco
+87261:Fuyue:G Sco
 87280:z Her:88 Her
 87294:IOT2 Sco
 87563:f Her:90 Her
@@ -2479,9 +2482,9 @@
 87728:PSI2 Dra:34 Dra
 87747:89 Her
 87808:TET Her:91 Her
-87833:Etamin:Eltanin:Ettanin:GAM Dra:33 Dra
+87833:Eltanin:Etamin:Ettanin:GAM Dra:33 Dra
 87933:XI Her:92 Her
-87937:Barnard's Star:Gliese 699:Munich 15040
+87937:Barnard's Star:V2500 Oph:Gliese 699:Munich 15040
 87998:NU Her:94 Her
 88048:NU Oph:64 Oph
 88116:4 Sgr
@@ -2545,7 +2548,7 @@
 90191:Al Athfar:MU Lyr:2 Lyr
 90260:18 Sgr
 90289:21 Sgr
-90344:42 Dra
+90344:42 Dra:Fafnir
 90422:ALF Tel
 90441:d Ser:59 Ser
 90496:Kaus Borealis:LAM Sgr:22 Sgr
@@ -2603,7 +2606,7 @@
 92646:KAP Tel
 92728:DEL1 Lyr:11 Lyr
 92747:33 Sgr
-92761:NU1 Sgr:32 Sgr
+92761:Ainalrami:NU1 Sgr:32 Sgr
 92782:UPS Dra:52 Dra
 92791:DEL2 Lyr:12 Lyr
 92818:113 Her
@@ -2650,9 +2653,9 @@
 94075:HD 178911 B
 94083:59 Dra
 94112:Kepler-21:KOI-975:KIC 3632418
-94114:ALF CrA
+94114:Meridiana:Alphecca Meridiana:ALF CrA
 94140:55 Dra
-94141:PI Sgr:41 Sgr
+94141:Albaldah:PI Sgr:41 Sgr
 94160:BET CrA
 94302:53 Dra
 94311:19 Lyr
@@ -2683,10 +2686,10 @@
 95168:RHO1 Sgr:44 Sgr
 95176:UPS Sgr:46 Sgr
 95188:RHO2 Sgr:45 Sgr
-95241:Arkab:BET1 Sgr
+95241:Arkab Prior:Arkab:BET1 Sgr
 95260:3 Vul
 95261:ETA Tel
-95294:BET2 Sgr
+95294:Arkab Posterior:BET2 Sgr
 95347:Rukbat:ALF Sgr
 95372:2 Cyg
 95398:2 Sge
@@ -2700,7 +2703,7 @@
 95564:50 Sgr
 95585:NU Aql:32 Aql
 95656:IOT1 Cyg:7 Cyg
-95771:ALF Vul:6 Vul
+95771:Anser:ALF Vul:6 Vul
 95785:8 Vul
 95793:c Aql:35 Aql
 95818:7 Vul
@@ -2741,7 +2744,7 @@
 97077:10 Vul
 97118:15 Cyg
 97139:PSI Aql:48 Aql
-97165:DEL Cyg:18 Cyg
+97165:Fawaris:DEL Cyg:18 Cyg
 97229:UPS Aql:49 Aql
 97278:Tarazed:GAM Aql:50 Aql
 97290:f Sgr:56 Sgr
@@ -2765,7 +2768,7 @@
 97870:23 Cyg
 97886:13 Vul
 97928:56 Aql
-97938:XI Aql:59 Aql
+97938:Libertas:XI Aql:59 Aql
 97966:57 Aql A
 97967:57 Aql B
 97980:58 Aql
@@ -2845,7 +2848,7 @@
 100122:35 Cyg
 100195:SIG Cap:7 Cap
 100221:71 Dra
-100310:NU Cap:8 Cap
+100310:Alshat:NU Cap:8 Cap
 100325:BET2 Cap
 100345:Dabih:Sadalzabih:BET Cap:BET1 Cap:9 Cap
 100435:25 Vul
@@ -2872,7 +2875,7 @@
 101214:44 Cyg
 101243:OME2 Cyg:46 Cyg
 101260:73 Dra:AF Dra
-101421:Al Dhanab al Dulfim:EPS Del:2 Del
+101421:Aldulfin:Al Dhanab al Dulfim:EPS Del:2 Del
 101474:47 Cyg
 101477:NU Mic
 101483:ETA Del:3 Del
@@ -2913,7 +2916,7 @@
 102453:52 Cyg
 102485:PSI Cap:16 Cap
 102487:17 Cap
-102488:EPS Cyg:53 Cyg
+102488:Aljanah:EPS Cyg:53 Cyg
 102531:GAM1 Del:12 Del B
 102532:GAM2 Del:12 Del A
 102589:LAM Cyg:54 Cyg
@@ -2946,7 +2949,7 @@
 103401:7 Aqr
 103413:NU Cyg:58 Cyg
 103511:33 Vul
-103527:18 Del
+103527:18 Del:Musica
 103569:EPS Equ:1 Equ
 103616:20 Cap
 103632:f1 Cyg:59 Cyg:V832 Cyg
@@ -3032,7 +3035,7 @@
 106711:74 Cyg
 106723:EPS Cap:39 Cap
 106783:3 Peg
-106786:XI Aqr:23 Aqr
+106786:Bunda:XI Aqr:23 Aqr
 106787:5 Peg
 106801:9 Cep
 106856:4 Peg
@@ -3075,7 +3078,7 @@
 107975:15 Peg
 108022:16 Peg
 108036:MU Cap:51 Cap
-108085:Al Dhanab:GAM Gru
+108085:Aldhanab:Al Dhanab:GAM Gru
 108165:13 Cep
 108281:PI Ind
 108317:VV Cep
@@ -3242,7 +3245,7 @@
 113283:Fomalhaut B:ALF PsA B:24 PsA B:TW PsA:Gliese 879
 113296:Gliese 880:Ross 671
 113307:TAU3 Gru
-113357:51 Peg
+113357:51 Peg:Helvetios
 113368:Fomalhaut:ALF PsA:24 PsA:Gliese 881
 113503:52 Peg
 113521:2 Psc
@@ -3254,7 +3257,7 @@
 113788:2 And
 113860:PI PsA
 113881:Scheat:BET Peg:53 Peg
-113889:Fum al Samakah:BET Psc:4 Psc
+113889:Fumalsamakah:Fum al Samakah:BET Psc:4 Psc
 113919:3 And
 113957:KAP Gru
 113963:Markab:Marchab:ALF Peg:54 Peg
@@ -3310,7 +3313,7 @@
 115444:66 Peg
 115590:4 Cas
 115591:67 Peg
-115623:UPS Peg:68 Peg
+115623:Alkarab:UPS Peg:68 Peg
 115669:b2 Aqr:99 Aqr
 115713:OMI Gru
 115738:KAP Psc:8 Psc
