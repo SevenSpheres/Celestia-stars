@@ -2266,34 +2266,6 @@ Barycenter "KIC 4862625 A"
 	AppMag 9.8
 }
 
-53911 "TW Hya" # redefined because of absent spectral
-               # class in stars.dat
-{
-	RA 165.46625
-	Dec -34.70472
-	Distance 184.07
-	SpectralType "K8V"
-	AppMag 10.91
-}
-
-13044
-{
-	RA 30.793722
-	Dec -36.107500
-	Distance 2285
-	SpectralType "F2"
-	AppMag 9.94
-}
-
-114840
-{
-	RA 348.925833
-	Dec +58.043333
-	Distance 4900
-	SpectralType "K2III"
-	AppMag 8.19
-}
-
 # Figueira et al, 2010 (http://fr.arxiv.org/abs/1003.3678)
 # suggest the radial velocity is stellar rather than planetary
 #1002141355 "BD+20 1790"
@@ -2446,7 +2418,7 @@ Barycenter "UPS And:50 And"
 	RA 32.600829       # from measured separation 
 	Dec -50.825444     # position angle
 	Distance 35.596
-	SpectralType "DC9" # "cool white dwarf, 5000±500K"
+	SpectralType "DC9" # "cool white dwarf, 5000Â±500K"
 	AbsMag 14.5        # typical for class
 }
 
