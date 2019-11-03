@@ -1,38 +1,92 @@
 0:Sol
+8:Z Peg
+40:V463 Cep
+63:CG And
+76:V401 And
 88:TAU Phe
+99:WZ Cas
+109:DR Psc
 122:TET Oct
+139:V747 Cep
 145:29 Psc
-154:30 Psc
+154:30 Psc:YY Psc
+159:BU Psc
 171:85 Peg:Gliese 914
+181:V822 Cas
 183:ZET Scl
 186:31 Psc
 194:c Psc:32 Psc
+215:V396 Cep
+226:RU Scl
+262:TW And
+270:V397 Cep
+274:V639 Cas
 301:2 Cet
+302:V398 Cep
+316:NN Peg
+320:UU Cet
+328:AT Scl
 330:9 Cas
+336:V739 Cas
+344:SV And
 355:3 Cet
+363:SU And
+386:V399 Cep
+390:IX Cas
+418:V567 Cas
 428:Gliese 2
 436:Gliese 3
 439:Gliese 1:Cordoba 32416
-443:33 Psc
+443:33 Psc:BC Psc
+457:BH Phe
 473:Gliese 4
 476:86 Peg
+500:BI Phe
+516:SW Scl
+518:V640 Cas
+520:CE Cet
+523:CQ Tuc
 531:10 Cas
-544:Gliese 5
-664:5 Cet
+536:TT Peg
+544:V439 And:Gliese 5
+578:V421 Peg
+590:V341 And
+623:V1006 Cas
+632:BK Phe
+664:5 Cet:AP Psc
 677:Alpheratz:Sirrah:ALF And:21 And:DEL Peg
+696:CF Cet
 699:Gliese 6
+720:CG Cet
+723:V740 Cas
 729:87 Peg
 730:Gliese 9
 738:Gliese 7
 746:Caph:Cheph:BET Cas:11 Cas:Gliese 8
 761:KAP1 Scl
 765:EPS Phe
+779:KN Cas
+781:SS Cas
+796:BD Cas
 813:34 Psc
 814:GAM3 Oct
+817:V342 And
+834:V741 Cas
 841:22 And
+852:NO Peg
+864:NP Peg
+871:SX Cas
+882:V343 And
+883:BL Phe
+893:AC Cet
 910:6 Cet:Gliese 10
+919:V344 And
 930:KAP2 Scl
+940:V742 Cas
 950:TET Scl
+988:V345 And
+989:NQ Peg
+999:LN Peg
 1067:Algenib:GAM Peg:88 Peg
 1068:Gliese 11
 1086:23 And
