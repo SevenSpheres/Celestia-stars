@@ -3288,7 +3288,7 @@ Modify 65859 # Ross 490
 	Radius 341000 # approx. for class
 }
 
-"G 141-36"
+"Giclas 141-36"
 {
 	RA 282.07307098
 	Dec -7.68921596
