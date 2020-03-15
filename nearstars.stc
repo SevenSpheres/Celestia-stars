@@ -47,6 +47,8 @@ Barycenter "Solar System Barycenter:SSB"
 
 	SpectralType "G2V"
 	AbsMag 4.83
+	Temperature 5780
+	BoloCorrection -0.08
 
 	UniformRotation
 	{
@@ -1154,14 +1156,14 @@ Barycenter 54211 "Gliese 412:Lalande 21258" # orbits of A & B unknown
 # "The first super-Earth detection from the high cadence and high radial velocity 
 # precision Dharma Planet Survey"
 # https://arxiv.org/abs/1807.07098
-Barycenter "Keid:OMI2 Eri:40 Eri:Gliese 166:ADS 3093" # Orbits of A & (BC) unknown
+Barycenter 19849 "Keid:OMI2 Eri:40 Eri:Gliese 166:ADS 3093" # Orbits of A & (BC) unknown
 {
 	RA 63.82884851   # mass ratio 0.78:(0.573:0.2036)
 	Dec -7.654310215
 	Distance 16.305
 }
 
-19849 "Keid A:OMI2 Eri A:40 Eri A:Gliese 166 A:ADS 3093 A"
+"Keid A:OMI2 Eri A:40 Eri A:Gliese 166 A:ADS 3093 A"
 {
 	RA 63.81799886
 	Dec -7.65287169
