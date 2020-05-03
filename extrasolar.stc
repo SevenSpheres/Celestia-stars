@@ -2335,14 +2335,14 @@ Barycenter "KIC 4862625 A"
 
 # Definitions for some exoplanet stars in multiple systems
 
-Barycenter "TAU Boo:4 Boo"
+Barycenter "TAU Boo:4 Boo:Gliese 527"
 {
 	RA 206.815676
 	Dec 17.456869
 	Distance 50.868
 }
 
-67275 "TAU Boo A:4 Boo A"
+67275 "TAU Boo A:4 Boo A:Gliese 527 A"
 {
 	OrbitBarycenter "TAU Boo"
 	SpectralType "F7V"
@@ -2359,7 +2359,7 @@ Barycenter "TAU Boo:4 Boo"
 	}
 }
 
-"TAU Boo B:4 Boo B"
+"TAU Boo B:4 Boo B:Gliese 527 B"
 {
 	OrbitBarycenter "TAU Boo"
 	SpectralType "M2V"
@@ -2376,14 +2376,14 @@ Barycenter "TAU Boo:4 Boo"
 	}
 }
 
-Barycenter "Titawin:UPS And:50 And"
+Barycenter "Titawin:UPS And:50 And:Gliese 61"
 {
 	RA 24.198715     # mass ratio 1.2:0.2
 	Dec 41.404487    #
 	Distance 43.928
 }
 
-7513 "Titawin A:UPS And A:50 And A"
+7513 "Titawin A:UPS And A:50 And A:Gliese 61 A"
 {
 	RA 24.199904
 	Dec 41.406384
@@ -2392,7 +2392,7 @@ Barycenter "Titawin:UPS And:50 And"
 	AppMag 4.10
 }
 
-"Titawin B:UPS And B:50 And B:2MASS J0136504+412332"
+"Titawin B:UPS And B:50 And B:Gliese 61 B:2MASS J0136504+412332"
 {
 	RA 24.19158317
 	Dec 41.39310511
@@ -2422,14 +2422,14 @@ Barycenter "Titawin:UPS And:50 And"
 	AbsMag 14.5        # typical for class
 }
 
-Barycenter "83 Leo"
+Barycenter "83 Leo:Gliese 429"
 {
 	RA 171.692540
 	Dec 3.009373
 	Distance 57.637
 }
 
-55846 "83 Leo A"
+55846 "83 Leo A:Gliese 429 A"
 {
 	OrbitBarycenter "83 Leo"
 	SpectralType "K0IV"
@@ -2446,7 +2446,7 @@ Barycenter "83 Leo"
 	}
 }
 
-55848 "83 Leo B"
+55848 "83 Leo B:Gliese 429 B"
 {
 	OrbitBarycenter "83 Leo"
 	SpectralType "K2V"
@@ -2463,14 +2463,14 @@ Barycenter "83 Leo"
 	}
 }
 
-Barycenter "94 Cet"
+Barycenter "94 Cet:Gliese 128"
 {
 	RA 48.193016
 	Dec -1.195933
 	Distance 72.984
 }
 
-14954 "94 Cet A"
+14954 "94 Cet A:Gliese 128 A"
 {
 	OrbitBarycenter "94 Cet"
 	SpectralType "F8V"
@@ -2487,7 +2487,7 @@ Barycenter "94 Cet"
 	}
 }
 
-"94 Cet B"
+"94 Cet B:Gliese 128 B"
 {
 	OrbitBarycenter "94 Cet"
 	SpectralType "M"          # guess from est. mass and AppMag
