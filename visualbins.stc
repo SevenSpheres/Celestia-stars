@@ -1263,7 +1263,7 @@
      Distance  70.598918
  }
  
- "CCDM J01157-6852"
+ "CCDM J01157-6852 C"
  {
      OrbitBarycenter "CCDM J01157-6852CD"
      SpectralType    "K2V"    # lacking, used HIP data of the entire system!
@@ -1280,7 +1280,7 @@
      }
  }
 
- "CCDM J01157-6852"
+ "CCDM J01157-6852 D"
  {
      OrbitBarycenter "CCDM J01157-6852CD"
      SpectralType    "K2V"    # lacking, used HIP data of the entire system!
