@@ -10,6 +10,8 @@
 #   http://www.astronomy.villanova.edu/WDCatalog/index.html
 # The SIMBAD astronomical database:
 #   http://simbad.u-strasbg.fr/sim-fid.pl
+# Eric Mamajek's stellar parameter tables:
+#   http://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt
 
 Modify 746 # Caph: rapidly rotating star, rotational parameters from
            # Che et al. (2011), ApJ 732 (2), 68
@@ -103,6 +105,12 @@ Modify 12527 # V493 Per: spectral class from SIMBAD, replacing "F3"
 Modify 13380 # Spectral class from SIMBAD, replacing "G9"
 {
 	SpectralType "WC6"
+}
+
+Modify 14559 # Fix anomalously low distance
+{
+	Distance 772.41 # Parallax 4.2227 +/- 0.0771
+	AppMag 11.683 # keep same magnitude
 }
 
 Modify 14647 # Spectral class from SIMBAD, replacing "C7:,3"
@@ -228,6 +236,14 @@ Modify 66383 # KN Cen: spectral class from SIMBAD, replacing "M0"
 	SpectralType "G8Iab"
 }
 
+Modify 67593 # Fix anomalously low distance
+             # Spectral class estimated from Tycho BT-VT indices, using Mamajek's table
+{
+	Distance 2214 # Parallax 1.4731 +/- 0.0329
+	AppMag 11.38 # keep same magnitude
+	SpectralType "K5"
+}
+
 Modify 66948 # Spectral class from SIMBAD, replacing "A3"
 {
 	SpectralType "WC7"
@@ -246,14 +262,14 @@ Modify 72105 # Eps Boo: Primary spectral class from SIMBAD
 Modify 72509 # Fix anomalously high distance; spectral class from SIMBAD
 {
 	Distance 67.565 # Parallax 48.2743 +/- 0.0849
-	AppMag 12.066
+	AppMag 12.066 # keep same magnitude
 	SpectralType "M1.5V"
 }
 
 Modify 72511 # Fix anomalously low distance; spectral class from SIMBAD
 {
 	Distance 67.570 # Parallax 48.2709 +/- 0.0423
-	AppMag 11.656
+	AppMag 11.656 # keep same magnitude
 	SpectralType "M1.5V"
 }
 
@@ -268,15 +284,15 @@ Modify 75863 # Spectral class from SIMBAD, replacing "K5"
 }
 
 Modify 76976 # HD 140283 (chemically peculiar star): improved parameters from
-             # Creevey et al. (2015), A&A 575, A26
-             # "Benchmark stars for Gaia Fundamental properties of the Population II 
-             # star HD 140283 from interferometric, spectroscopic, and photometric data"
-             # https://arxiv.org/abs/1410.4780
+             # Karovicova et al. (2020), A&A 640, A25
+             # "Fundamental stellar parameters of benchmark stars from CHARA 
+             # interferometry. I. Metal-poor stars"
+             # https://arxiv.org/abs/2006.05411
              # Spectral type chosen to match effective temperature
 {
-	SpectralType "G1IV"
-	Temperature 5534
-	Radius 1419200
+	SpectralType "G0IV"
+	Temperature 5792
+	Radius 1507600
 }
 
 Modify 79607 # Sig CrB: Primary spectral class from SIMBAD
@@ -419,6 +435,12 @@ Modify 98057 # Spectral class from SIMBAD, replacing "A1.V"
 Modify 98107 # Spectral class from SIMBAD, replacing "A0"
 {
 	SpectralType "K2/4"
+}
+
+Modify 98681 # Fix anomalously low distance
+{
+	Distance 2092 # Parallax 1.5592 +/- 0.0525
+	AppMag 9.677 # keep same magnitude
 }
 
 Modify 99002 # V1676 Cyg: spectral class from SIMBAD, replacing "O9.5 I COMP"
