@@ -1,4 +1,4 @@
-# Catalog of 3359 pulsars for Celestia from the ATNF database, v1.69.
+# Catalog of 3389 pulsars for Celestia from the ATNF database, v1.70.
 # Source: http://www.atnf.csiro.au/research/pulsar/psrcat/
 # Manchester, R. N., Hobbs, G. B., Teoh, A. & Hobbs, M., AJ, 129, 1993-2006 (2005)
 #
@@ -44,6 +44,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0007091305555555555
+}
+
+"PSR J0012+5431"
+{
+	RA 3.0971
+	Dec 54.5297
+	Distance 17693.96
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0008403613083249999
 }
 
 "PSR B0011+47:PSR J0014+4746"
@@ -755,6 +765,16 @@
 	RotationPeriod 0.00029753280829416666
 }
 
+"PSR J0109+11"
+{
+	RA 17.2
+	Dec 11.5
+	Distance 5107.6
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00012019444444444443
+}
+
 "PSR J0110-22"
 {
 	RA 17.5
@@ -1182,6 +1202,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0002860277777777778
+}
+
+"PSR J0227+3356"
+{
+	RA 36.73775
+	Dec 33.941044
+	Distance 5202.19
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0003444729056044444
 }
 
 "PSR J0229+20"
@@ -2093,6 +2123,16 @@
 	RotationPeriod 1.126621730990111e-06
 }
 
+"PSR J0509+37"
+{
+	RA 77.2
+	Dec 37.5
+	Distance 3033.25
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0006933611111111112
+}
+
 "PSR J0509+3801"
 {
 	RA 77.3824504
@@ -2665,7 +2705,7 @@
 {
 	RA 88.52088
 	Dec 31.1281
-	Distance 200000 # missing!
+	Distance 6523.12
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.00012915582381555556
@@ -3229,6 +3269,16 @@
 	RotationPeriod 0.00025668164391916666
 }
 
+"PSR J0653+06"
+{
+	RA 103
+	Dec -6.3
+	Distance 6979.74
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00021944444444444444
+}
+
 "PSR J0653+4706"
 {
 	RA 103.274221
@@ -3277,6 +3327,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.00015647081257083334
+}
+
+"PSR J0658+2936"
+{
+	RA 104.4359
+	Dec 29.6081
+	Distance 2658.17
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0002288058281388889
 }
 
 "PSR B0656+14:PSR J0659+1414"
@@ -3527,6 +3587,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 8.015934476146369e-07
+}
+
+"PSR J0741+17"
+{
+	RA 115
+	Dec 17.1
+	Distance 3936.7
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0004805555555555556
 }
 
 "PSR B0740-28:PSR J0742-2822"
@@ -5404,6 +5474,16 @@
 	RotationPeriod 1.2958785936862222e-06
 }
 
+"PSR J1048+5349"
+{
+	RA 162.0269
+	Dec 53.83108
+	Distance 81539.0
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0007585726626444444
+}
+
 "PSR B1046-58:PSR J1048-5832"
 {
 	RA 162.05438
@@ -5702,6 +5782,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 7.802925042761111e-05
+}
+
+"PSR J1105+02"
+{
+	RA 166.3833
+	Dec 2.5
+	Distance 5048.89
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0017786264922222221
 }
 
 "PSR J1105-4353"
@@ -6142,6 +6232,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.00029524444444444447
+}
+
+"PSR J1130+09"
+{
+	RA 172.729
+	Dec 9.34682
+	Distance 11043.64
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0013323991597222224
 }
 
 "PSR J1130-5826"
@@ -10656,6 +10756,16 @@
 	AbsMag 25
 }
 
+"PSR J1541+47"
+{
+	RA 235.27308
+	Dec 47.05096
+	Distance 6634.01
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 7.713908135944444e-05
+}
+
 "PSR J1541-5535"
 {
 	RA 235.4567
@@ -12397,7 +12507,7 @@
 {
 	RA 247.2096329
 	Dec 44.1118366
-	Distance 1761.24
+	Distance 1757.98
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 5.032735831865278e-05
@@ -12451,16 +12561,6 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0001462123851386111
-}
-
-"PSR J1629+43"
-{
-	RA 247.2
-	Dec 43.0
-	Distance 1774.29
-	SpectralType "Q"
-	AbsMag 25
-	RotationPeriod 5.027777777777778e-05
 }
 
 "PSR J1629-6902"
@@ -22838,6 +22938,16 @@
 	RotationPeriod 0.00010429538292222223
 }
 
+"PSR J1844+21"
+{
+	RA 281.0
+	Dec 21.9
+	Distance 5097.82
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0001655277777777778
+}
+
 "PSR J1844+41"
 {
 	RA 281.1875
@@ -22946,6 +23056,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0007274773520166666
+}
+
+"PSR J1845+21"
+{
+	RA 281.2
+	Dec 21.85
+	Distance 8754.03
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.001043222222222222
 }
 
 "PSR J1846+0051"
@@ -27676,6 +27796,16 @@
 	RotationPeriod 0.00012401666666666668
 }
 
+"PSR J1917+17"
+{
+	RA 289.2
+	Dec 17.4
+	Distance 5587.05
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00011655555555555555
+}
+
 "PSR J1917+1737"
 {
 	RA 289.3499
@@ -28064,6 +28194,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0003714728222748611
+}
+
+"PSR J1921+34"
+{
+	RA 290.2
+	Dec 34.1
+	Distance 26262.08
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0004011111111111111
 }
 
 "PSR J1922+1131"
@@ -29684,6 +29824,16 @@
 	RotationPeriod 1.412270469431389e-06
 }
 
+"PSR J1943+5815"
+{
+	RA 295.846563
+	Dec 58.264744
+	Distance 25374.94
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0003530130352195
+}
+
 "PSR J1944+0907"
 {
 	RA 296.03887491
@@ -30166,12 +30316,12 @@
 
 "PSR J1952+2630"
 {
-	RA 298.1535004
-	Dec 26.5077981
-	Distance 32723.23
+	RA 298.15350097
+	Dec 26.5078012
+	Distance 32716.71
 	SpectralType "Q"
 	AbsMag 25
-	RotationPeriod 5.758989045186667e-06
+	RotationPeriod 5.7589889142705555e-06
 }
 
 "PSR J1952+2702g"
@@ -30844,6 +30994,16 @@
 	RotationPeriod 0.0001636654175888889
 }
 
+"PSR J2008+27"
+{
+	RA 302.0
+	Dec 27.9
+	Distance 24164.9
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00042272222222222223
+}
+
 "PSR J2008+2755g"
 {
 	RA 302.07
@@ -30862,6 +31022,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 6.281073212527778e-05
+}
+
+"PSR J2008+3758"
+{
+	RA 301.9946
+	Dec 37.9703
+	Distance 19318.22
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0012089730466666667
 }
 
 "PSR J2009+3122g"
@@ -31332,6 +31502,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 4.908539308716667e-05
+}
+
+"PSR J2029+34"
+{
+	RA 307.2
+	Dec 34.6
+	Distance 16937.28
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0005053888888888889
 }
 
 "PSR B2027+37:PSR J2029+3744"
@@ -31924,6 +32104,16 @@
 	RotationPeriod 0.00032408333333333334
 }
 
+"PSR J2057+4701"
+{
+	RA 314.288979
+	Dec 47.018117
+	Distance 16092.54
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00015543711519916666
+}
+
 "PSR J2102+38"
 {
 	RA 315.5
@@ -31946,11 +32136,12 @@
 
 "PSR J2105+19"
 {
-	RA 316.33
+	RA 316.2
 	Dec 19.4
-	Distance 9135.63
+	Distance 9876.0
 	SpectralType "Q"
 	AbsMag 25
+	RotationPeriod 0.0009804722222222222
 }
 
 "PSR J2105+28"
@@ -32073,6 +32264,15 @@
 	RotationPeriod 0.0001533804722222222
 }
 
+"PSR J2113+73"
+{
+	RA 318
+	Dec 73.6
+	Distance 8561.59
+	SpectralType "Q"
+	AbsMag 25
+}
+
 "PSR J2115+5448"
 {
 	RA 318.7990325
@@ -32091,6 +32291,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.00012226474081875
+}
+
+"PSR J2116+3701"
+{
+	RA 319.0596
+	Dec 37.025314
+	Distance 9468.31
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 4.052338515347222e-05
 }
 
 "PSR J2122+2426"
@@ -32371,6 +32581,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.00019338083333333332
+}
+
+"PSR J2138+69"
+{
+	RA 325
+	Dec 69.8
+	Distance 8108.24
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 6.111111111111111e-05
 }
 
 "PSR J2139+00"
@@ -32682,6 +32902,16 @@
 	RotationPeriod 0.0001769326093372222
 }
 
+"PSR J2208+4610"
+{
+	RA 332.09733
+	Dec 46.168044
+	Distance 10283.7
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.000178473763493
+}
+
 "PSR J2208+5500"
 {
 	RA 332.09883
@@ -32762,6 +32992,16 @@
 	RotationPeriod 0.00010394330362266667
 }
 
+"PSR J2215+4524"
+{
+	RA 333.944
+	Dec 45.4122
+	Distance 3688.82
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0007564027287499999
+}
+
 "PSR J2215+5135"
 {
 	RA 333.8862017
@@ -32800,6 +33040,15 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0001495746727553889
+}
+
+"PSR J2221+81"
+{
+	RA 335
+	Dec 81.5
+	Distance 8111.5
+	SpectralType "Q"
+	AbsMag 25
 }
 
 "PSR J2222-0137"
@@ -32962,6 +33211,16 @@
 	RotationPeriod 1.9187637202558334e-06
 }
 
+"PSR J2237+2828"
+{
+	RA 339.37254
+	Dec 28.478
+	Distance 13036.46
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.00029927641430555553
+}
+
 "PSR J2238+5903"
 {
 	RA 339.61779
@@ -33070,6 +33329,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 0.0033673791475833333
+}
+
+"PSR J2253+12"
+{
+	RA 343.2
+	Dec 12.5
+	Distance 81539.0
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0002720277777777778
 }
 
 "PSR J2253+1516"
@@ -33242,6 +33511,15 @@
 	RotationPeriod 0.0002947222222222222
 }
 
+"PSR J2316+75"
+{
+	RA 349
+	Dec 75.7
+	Distance 7964.73
+	SpectralType "Q"
+	AbsMag 25
+}
+
 "PSR J2317+1439"
 {
 	RA 349.288484923
@@ -33402,6 +33680,16 @@
 	RotationPeriod 0.0004565617181463889
 }
 
+"PSR J2333+20"
+{
+	RA 353.2
+	Dec 20.3
+	Distance 4536.83
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0006364166666666667
+}
+
 "PSR J2333+6145"
 {
 	RA 353.33103
@@ -33550,6 +33838,16 @@
 	SpectralType "Q"
 	AbsMag 25
 	RotationPeriod 1.0330534179148055e-06
+}
+
+"PSR J2355+1523"
+{
+	RA 358.9526
+	Dec 15.3883
+	Distance 11232.81
+	SpectralType "Q"
+	AbsMag 25
+	RotationPeriod 0.0003039989624166667
 }
 
 "PSR J2355+2246"
